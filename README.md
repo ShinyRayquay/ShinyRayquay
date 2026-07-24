@@ -19,6 +19,15 @@ I love solving puzzles and playing games. That's where I got my interest in math
 
 ## Featured Project: Mancala Project for CS 151 - Object-Oriented Design at SJSU
 
-**What We Did**: With a group of two other classmates, we programmed a Mancala game for two players with customizable gameplay and GUI. We applied and implemented many concepts from the course for smart and efficient coding.
-**Tools**: Java, Swing
-Interested in trying it out? Here's the project: 
+- **What We Did**: With a group of two other classmates, we programmed a Mancala game for two players in Java with customizable gameplay and GUI. We applied and implemented many concepts from the course for smart and efficient coding.
+- **Tools**: Java, Swing
+
+Interested in trying it out? Here's the project: https://github.com/Ivan9900kar/cs151-mancala
+
+## Tech Stack
+
+- **Languages**: Java, C, Python
+- **Data Science**: Pandas, NumPy, scikit-learn
+- **Tools**: Jupyter Notebooks, Git, GitHub
+
+##
