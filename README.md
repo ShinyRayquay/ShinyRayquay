@@ -30,4 +30,7 @@ Interested in trying it out? Here's the project: https://github.com/Ivan9900kar/
 - **Data Science**: Pandas, NumPy, scikit-learn
 - **Tools**: Jupyter Notebooks, Git, GitHub
 
-##
+## Contact
+
+- **Email**: isaiahymak@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/isaiah-mak/
