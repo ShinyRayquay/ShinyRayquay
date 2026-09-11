@@ -27,6 +27,7 @@ Interested in trying it out? Here's the project: https://github.com/Ivan9900kar/
 ## Tech Stack
 
 - **Languages**: Java, C, Python
+- **Databases**: MySQL
 - **Data Science**: Pandas, NumPy, scikit-learn
 - **Tools**: Jupyter Notebooks, Git, GitHub
 
